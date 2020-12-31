@@ -1,0 +1,4 @@
+Bundle-Name: WebSight Error Handlers
+Bundle-License: GNU AGPLv3
+Sling-Bundle-Resources: /apps/websight-error-handlers
+Include-Resource: src/main/resources/
